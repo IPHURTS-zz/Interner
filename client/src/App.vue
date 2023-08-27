@@ -2,6 +2,9 @@
 import Hero from './components/Hero.vue'
 import Feature from './components/Section.vue'
 import Chart from './components/Chart.vue'
+import CTA from './components/CTA.vue'
+import Footer from './Base/Footer.vue'
+
 </script>
 
 <template>
@@ -9,6 +12,8 @@ import Chart from './components/Chart.vue'
     <Hero />
     <Feature />
     <Chart />
+    <CTA />
+    <Footer />
   </div>
 </template>
 
