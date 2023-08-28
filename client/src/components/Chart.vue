@@ -17,7 +17,7 @@
                 </div>
                 <div class="md:7/12 lg:w-1/2">
                     <h2 class="text-3xl font-bold text-gray-900 md:text-4xl dark:text-white">
-                        INTERNSHIP FAQ
+                        Explore a World of Possibilities
                     </h2>
                     <p class="my-8 text-gray-600 dark:text-gray-300">
                         Approximately 70% of interns across the nation are given a job offer at the same company they interned with after completing their training period. Of the interns who receive a job offer, a whopping 80% of them accept that offer and become employed by the company they interned

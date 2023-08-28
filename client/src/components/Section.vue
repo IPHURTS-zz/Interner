@@ -10,8 +10,7 @@
                 </svg>
 
                 <h2 class="my-8 text-2xl font-bold text-gray-700 dark:text-white md:text-4xl">
-                    A technology-first approach to payments
-                    and finance
+                    About Us
                 </h2>
                 <p class="text-gray-600 dark:text-gray-300">At Interner, we're passionate about nurturing the talents of students and bridging the gap between education and real-world experience. Our mission is to connect students with valuable attachment and internship opportunities that provide hands-on learning, exposure to diverse industries, and a stepping stone towards a successful career. </p>
             </div>

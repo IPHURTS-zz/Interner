@@ -4,11 +4,13 @@ import Feature from './components/Section.vue'
 import Chart from './components/Chart.vue'
 import CTA from './components/CTA.vue'
 import Footer from './Base/Footer.vue'
+import Header from './Base/Header.vue'
 
 </script>
 
 <template>
   <div>
+    <Header />
     <Hero />
     <Feature />
     <Chart />
